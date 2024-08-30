@@ -12,4 +12,11 @@
         <exec.mainClass>org.frb.stls.mavenproject1.Mavenproject1</exec.mainClass>
     </properties>
     <name>EAO</name>
+    <dependencies>
+        <dependency>
+            <groupId>org.mnode.ical4j</groupId>
+            <artifactId>ical4j</artifactId>
+            <version>4.0.3</version>
+        </dependency>
+    </dependencies>
 </project>
